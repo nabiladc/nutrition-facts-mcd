@@ -1,10 +1,10 @@
 # Nutrition Facts for McDonald's Menu
 This is a challenge from Digital Talent Scholarship 2020 to explore about nutrition's facts in McD's menu. This notebook contain of data exploration and visualization based on questions.
 
-You can get the dataset in kaggle https://www.kaggle.com/mcdonalds/nutrition-facts
-
 # Content
 This dataset provides a nutrition analysis of every menu item on the US McDonald's menu in 2017, including breakfast, beef burgers, chicken, and fish sandwiches, fries, soda, coffee and tea, milkshakes, and desserts
+
+You can get the dataset in kaggle https://www.kaggle.com/mcdonalds/nutrition-facts
 
 # Questions
 1. How many calories does the average McDonald's value meal contain?
